@@ -1,0 +1,36 @@
+{
+  "name": "aarogyaaa",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^6.12.12",
+    "@google/generative-ai": "^0.24.0",
+    "axios": "^1.8.4",
+    "dotenv": "^16.4.7",
+    "lucide-react": "^0.488.0",
+    "mongoose": "^8.13.1",
+    "next": "15.2.4",
+    "prismjs": "^1.30.0",
+    "python-shell": "^5.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-hot-toast": "^2.5.2",
+    "react-markdown": "^10.1.0",
+    "react-router-dom": "^7.4.1",
+    "react-type-animation": "^3.2.0",
+    "svix": "^1.63.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.4",
+    "tailwindcss": "^4"
+  }
+}
